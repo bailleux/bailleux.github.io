@@ -1,1 +1,2 @@
-# bailleux.github.io
+# **Drupal 8 documentation**
+Since the release of Drupal 8.0.0 on 19th November 2015, the Drupal community has released a wide range of documentation tools: blogs, tutorials, a Drupal 8 User Guide on drupal.org and thousands of posts on the community website.
